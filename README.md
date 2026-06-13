@@ -1,82 +1,127 @@
-# 👋 Hi, I'm Keertan Kumar
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Keertan Kumar
 
-### B.Tech IT Student @ IIIT Bhubaneswar | Full Stack Developer | AI Enthusiast | Competitive Programmer
+<div align="center">
 
-Welcome to my GitHub profile! I am passionate about building scalable software, exploring Artificial Intelligence, and solving challenging algorithmic problems.
+### Full Stack Developer • AI Enthusiast • Competitive Programmer
 
-## Profile Link : https://kk05467.github.io/Portfolio/
-
----
-
-## 🚀 About Me
-
-* 🎓 B.Tech in Information Technology at **IIIT Bhubaneswar**
-* 💻 Full Stack Developer
-* 🤖 Interested in Generative AI
-* 🧠 Competitive Programming Enthusiast
-* 🚀 Open to internships and collaboration opportunities
-* 🌱 Continuously learning new technologies and frameworks
+</div>
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 About Me
 
-### Languages
-
-* C++
-* JavaScript
-* Python
-
-### Frontend
-
-* HTML
-* CSS
-* React
-* Tailwind CSS
-
-### Backend
-
-* Node.js
-* Express.js
-
-### Databases
-
-* MongoDB
-* MySQL
-* Redis
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Postman
-
-## ⚡ Competitive Programming
-
-* Codeforces
-* CodeChef
+- 🎓 CSE Student at IIIT Bhubaneswar
+- 🌱 Learning Full Stack Development and DSA
+- 🤖 Interested in AI + ML
+- 💡 Exploring Backend Engineering and System Design
+- 🚀 Building scalable and intelligent applications
 
 ---
 
-## 📈 Currently Exploring
+# 🛠 Tech Stack
 
-* Full Stack Development
-* System Design
-* Artificial Intelligence
-* Distributed Systems
-* Blockchain Applications
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,react,nodejs,express,mongodb,mysql,git,github,vscode&theme=dark"/>
 
-## 📫 Connect With Me
-
-* GitHub: https://github.com/KK05467
-* LinkedIn: https://www.linkedin.com/in/keertan-kumar-kk
-* Email: keertanreads@gmail.com
+</div>
 
 ---
 
-## 🌟 Philosophy
+# 📊 GitHub Stats
 
-> Building intelligent systems and crafting meaningful digital experiences through elegant code.
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=KK05467&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KK05467&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KK05467&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KK05467&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌐 Portfolio
+
+<div align="center">
+
+<a href="https://KK05467.github.io/Portfolio/">
+
+<img src="https://img.shields.io/badge/View%20Portfolio-royalblue?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
+# 🏆 Competitive Programming
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+
+<img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces"/>
+
+<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef"/>
+
+<img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/KK05467">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=KK05467&color=blue)
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
