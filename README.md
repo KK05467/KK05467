@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Full Stack Developer • AI Enthusiast • Competitive Programmer
+### Full Stack Developer • AI Enthusiast • Competitive Programmer • Blockchain
 
 </div>
 
@@ -11,8 +11,8 @@
 # 🚀 About Me
 
 - 🎓 CSE Student at IIIT Bhubaneswar
-- 🌱 Learning Full Stack Development and DSA
-- 🤖 Interested in AI + ML
+- 🌱 Learning Full Stack Development, Blockchain and DSA
+- 🤖 Developing in Gen AI
 - 💡 Exploring Backend Engineering and System Design
 - 🚀 Building scalable and intelligent applications
 
@@ -106,11 +106,11 @@
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/keertan-kumar-kk/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:keertan2005@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
