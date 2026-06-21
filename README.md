@@ -10,7 +10,7 @@
 
 # 🚀 About Me
 
-- 🎓 CSE Student at IIIT Bhubaneswar
+- 🎓 IT Student at IIIT Bhubaneswar
 - 🌱 Learning Full Stack Development, Blockchain and DSA
 - 🤖 Developing in Gen AI
 - 💡 Exploring Backend Engineering and System Design
